@@ -1,3 +1,3 @@
 # ivan162.github.io
 
-#theme: minima
+theme: minima
